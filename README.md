@@ -26,7 +26,7 @@ Following are the prerequisites for this GitHub Action:
 ### Example #1 with no arguments
 
 ```
-- name: JMeter Test
+- name: JMeter Test1
   uses: QAInsights/PerfAction@v1.0
   with:
     test-plan-path: ./TestPlans/S01_SimpleExample/S01_SimpleExample.jmx
